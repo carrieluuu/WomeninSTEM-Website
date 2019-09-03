@@ -1565,8 +1565,9 @@ bootstrap-vue@^2.0.0-rc.11:
     vue-functional-data-merge "^2.0.5"
 
 bootstrap@^4.1.1:
-  version "4.1.3"
-  resolved "https://registry.yarnpkg.com/bootstrap/-/bootstrap-4.1.3.tgz#0eb371af2c8448e8c210411d0cb824a6409a12be"
+  version "4.3.1"
+  resolved "https://registry.yarnpkg.com/bootstrap/-/bootstrap-4.3.1.tgz#280ca8f610504d99d7b6b4bfc4b68cec601704ac"
+  integrity sha512-rXqOmH1VilAt2DyPzluTi2blhk17bO7ef+zLLPlWvG494pDxcM234pJ8wTc/6R40UWizAIIMgxjvxZg5kmsbag==
 
 brace-expansion@^1.1.7:
   version "1.1.11"
@@ -7988,6 +7989,19 @@ vue@^2.6.6:
   version "2.6.6"
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.6.tgz#dde41e483c11c46a7bf523909f4f2f816ab60d25"
   integrity sha512-Y2DdOZD8sxApS+iUlwv1v8U1qN41kq6Kw45lM6nVZKhygeWA49q7VCCXkjXqeDBXgurrKWkYQ9cJeEJwAq0b9Q==
+
+vue@^2.6.9:
+  version "2.6.10"
+  resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.10.tgz#a72b1a42a4d82a721ea438d1b6bf55e66195c637"
+  integrity sha512-ImThpeNU9HbdZL3utgMCq0oiMzAkt1mcgy3/E6zWC/G6AaQoeuFdsl9nDhTDU3X1R6FK7nsIUuRACVcjI+A2GQ==
+
+vuesax@^3.9.0:
+  version "3.9.0"
+  resolved "https://registry.yarnpkg.com/vuesax/-/vuesax-3.9.0.tgz#4283b70889c9e501dfe0a6b5bddc75ebccde7b89"
+  integrity sha512-QEtkCQYC6hNlPstkIh2douVq7mzH5WP2/L+EVkBiu+hkcr4GGPRWU2oHEH/LCf+yGssYJowy3JDsXRqpimQqbw==
+  dependencies:
+    chalk "^2.4.2"
+    vue "^2.6.9"
 
 watchpack@^1.5.0:
   version "1.6.0"
