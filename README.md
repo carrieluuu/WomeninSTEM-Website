@@ -17,3 +17,5 @@ Row style of the executive team
 Past Events
 ![HomePage](/PastEvents.png)
 Card/Blog style collection of our past events
+
+## Visit my website at: [link to website!](http://bayviewwis.com)
