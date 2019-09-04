@@ -18,4 +18,4 @@ Past Events
 ![HomePage](/PastEvents.png)
 Card/Blog style collection of our past events
 
-## Visit my website at: [link to website!](http://bayviewwis.com)
+Visit [Bayview Women in STEM] (http://bayviewwis.com)
